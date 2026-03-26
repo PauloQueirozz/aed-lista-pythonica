@@ -1,0 +1,65 @@
+[33mcommit f07df977eeb21980131df868168167777a8fcc96[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpaulo-lista1[m[33m, [m[1;31morigin/paulo-lista1[m[33m)[m
+Author: PauloQueirozz <paulosamuelqb@gmail.com>
+Date:   Wed Mar 25 20:38:40 2026 -0300
+
+    add ats 1-9, exceto at7
+
+[33mcommit bf0715951b1b46b7c7a2977cd24b8d9e9daa4a9f[m
+Author: PauloQueirozz <paulosamuelqb@gmail.com>
+Date:   Wed Mar 25 19:21:36 2026 -0300
+
+    add pasta atividades
+
+[33mcommit b20ad5278c8445802269c3791e9dd5846d627564[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 42e2494 6d1a772
+Author: Carlos Melo, PhD <carlosmelo@hotmail.com.br>
+Date:   Tue Mar 17 09:09:56 2026 -0300
+
+    Merge pull request #2 from casm3/testes
+    
+    ajustes
+
+[33mcommit 6d1a77201420e0e2954967990523f6d2af12c4e9[m
+Author: Carlos Melo <carlosmelo@hotmail.com.br>
+Date:   Tue Mar 17 09:09:26 2026 -0300
+
+    ajustes
+
+[33mcommit 42e2494646365e9834c32c4ac3e21173c0658874[m
+Merge: 692d920 1f82285
+Author: Carlos Melo, PhD <carlosmelo@hotmail.com.br>
+Date:   Tue Mar 17 08:59:55 2026 -0300
+
+    Merge pull request #1 from casm3/lista
+    
+    Lista
+
+[33mcommit 1f822855f6c526a0a30313d32b7e1121c0a685e4[m
+Author: Carlos Melo <carlosmelo@hotmail.com.br>
+Date:   Tue Mar 17 08:58:51 2026 -0300
+
+    ajuste imagem
+
+[33mcommit c79a1eb073017b4c8cd1e46a23758ca52b3222f4[m
+Author: Carlos Melo <carlosmelo@hotmail.com.br>
+Date:   Tue Mar 17 08:56:57 2026 -0300
+
+    toml
+
+[33mcommit b7ca1e3f008989a13c50eee397db76d6829be06a[m
+Author: Carlos Melo <carlosmelo@hotmail.com.br>
+Date:   Tue Mar 17 08:48:33 2026 -0300
+
+    interfaces e testes
+
+[33mcommit 903af471421445c3a6119e3d61bcedeadbf52b3e[m
+Author: Carlos Melo <carlosmelo@hotmail.com.br>
+Date:   Tue Mar 17 07:15:32 2026 -0300
+
+    read me
+
+[33mcommit 692d92079da8235d717c5a5fb284024274fca0f3[m
+Author: Carlos Melo, PhD <carlosmelo@hotmail.com.br>
+Date:   Tue Mar 17 05:55:16 2026 -0300
+
+    Initial commit
